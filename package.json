@@ -1,0 +1,46 @@
+{
+  "_from": "yapi-plugin-ww-login@^1.0.3",
+  "_id": "yapi-plugin-ww-login@1.0.3",
+  "_inBundle": false,
+  "_integrity": "sha512-jySFKShsPYRmdmwj5JuWb0/7qIuVzJnaAhteYqZP3zHv8AKHAcxuiAAzrFwJpFu6Txs/2BachoQEhikxuljNtA==",
+  "_location": "/yapi-plugin-ww-login",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "yapi-plugin-ww-login@^1.0.3",
+    "name": "yapi-plugin-ww-login",
+    "escapedName": "yapi-plugin-ww-login",
+    "rawSpec": "^1.0.3",
+    "saveSpec": null,
+    "fetchSpec": "^1.0.3"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmmirror.com/yapi-plugin-ww-login/-/yapi-plugin-ww-login-1.0.3.tgz",
+  "_shasum": "2ecac1731894d717b2a757ba5e52ad008d7d3188",
+  "_spec": "yapi-plugin-ww-login@^1.0.3",
+  "_where": "/Users/wetist/Workspace/tools/yapi/vendors",
+  "author": {
+    "name": "dickey_910"
+  },
+  "bugs": {
+    "url": "https://github.com/dickey910/yapi-plugin-ww-login/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "yapi企业微信登录插件",
+  "homepage": "https://github.com/dickey910/yapi-plugin-ww-login#readme",
+  "license": "ISC",
+  "main": "index.js",
+  "name": "yapi-plugin-ww-login",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dickey910/yapi-plugin-ww-login.git"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "version": "1.0.3"
+}
